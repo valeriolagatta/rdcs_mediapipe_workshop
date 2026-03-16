@@ -7,7 +7,7 @@ A hands-on workshop introducing [Google MediaPipe](https://developers.google.com
 This 1-hour workshop covers three core MediaPipe capabilities:
 
 | Module | What You'll Learn |
-|--------|----------|-------------------|
+|--------|-------------------|
 | **Introduction** | What MediaPipe is, why it's useful, capabilities overview |
 | **Hands-On Examples** | Hand detection, sentiment analysis, audio classification |
 | **Conclusion** | Validation strategies, next steps, resources |
