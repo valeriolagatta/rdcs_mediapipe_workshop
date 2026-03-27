@@ -89,7 +89,7 @@ Found an issue or want to improve the workshop? Contributions are welcome!
 
 ## 📝 License
 
-This workshop material is released under the [MIT License](LICENSE).
+This workshop material is released under the [Apache 2.0](LICENSE).
 
 MediaPipe is licensed under the [Apache 2.0 License](https://github.com/google/mediapipe/blob/master/LICENSE).
 
