@@ -38,7 +38,7 @@ mediapipe-workshop/
 
 ## 🚀 Getting Started
 
-### Option 1: Google Colab (Recommended)
+### Google Colab (Recommended)
 
 No installation required! Click the button below to open the notebook directly in Google Colab:
 
